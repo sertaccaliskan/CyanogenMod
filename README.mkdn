@@ -1,0 +1,17 @@
+Unified Device Tree for Asus Zenfone 2 Laser (Z00E)
+===========================================
+
+Basic   | Spec Sheet
+-------:|:-------------------------
+CPU     | Quad-core 1.2 GHz Cortex-A53        
+Chipset | Qualcomm MSM8916 Snapdragon 410        
+GPU     | Adreno 306
+Memory  | 2GB RAM
+Shipped Android Version | 5.0.2
+Storage | 8/16 GB
+MicroSD | Up to 256 GB
+Battery | Li-Po 2400mAh battery
+Display | 720 x 1280 pixels, 5.0 inches (~294 ppi pixel density)        
+Camera  | 13 MP, laser autofocus, dual-LED (dual tone) flash
+
+Copyright 2016 - The CyanogenMod Project.
